@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I'm a first-year PhD student in the Ecology and Evolutionary Biology Department at Tulane University
-- 🦇 I study bats! Particularly interested in how host-pathogen coevolution may have shaped bat antiviral immunity
+- 🦇 I study bats! Particularly interested in how host-pathogen coevolution has shaped bat antiviral immunity 🦠
 
 
 <!--

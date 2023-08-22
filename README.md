@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🦇 I'm a first-year PhD student at Tulane studying bat immunity! (she/her)
+🦇 I'm a first-year PhD student at Tulane studying bat immunity (she/her)
+
 
 <!--
 **mikaoshea/mikaoshea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
